@@ -14,6 +14,13 @@ public class Lab01 {
 		int t = 0;
 		
 		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 		
 		//open file
 		try{
